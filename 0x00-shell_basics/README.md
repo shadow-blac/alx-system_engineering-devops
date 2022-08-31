@@ -1,1 +1,1 @@
-this is shell
+THIS A SHELL BASIC PROJECT
